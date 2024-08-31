@@ -1,0 +1,21 @@
+[1;34mCPU Load:[0m
+[1;31m 21:48:57 up 11 min,  1 user,  load average: 0.08, 0.03, 0.01[0m
+[1;34mMemory Usage:[0m
+[1;32m               total        used        free      shared  buff/cache   available
+Mem:           1.7Gi       407Mi       1.3Gi       8.0Mi       256Mi       1.3Gi
+Swap:          2.0Gi          0B       2.0Gi[0m
+[1;34mDisk Usage:[0m
+[1;33mFilesystem                  Size  Used Avail Use% Mounted on
+devtmpfs                    4.0M     0  4.0M   0% /dev
+tmpfs                       888M     0  888M   0% /dev/shm
+tmpfs                       356M  5.1M  351M   2% /run
+/dev/mapper/almalinux-root   17G  5.8G   12G  35% /
+/dev/vda1                   960M  314M  647M  33% /boot
+tmpfs                       178M  4.0K  178M   1% /run/user/1001[0m
+[1;34mNetwork Usage:[0m
+[1;35mKernel Interface table
+Iface             MTU    RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR Flg
+enp1s0           1500     5214      0    359 0          2472      0      0      0 BMRU
+lo              65536        0      0      0 0             0      0      0      0 LRU[0m
+[1;34mActive Logged In Users:[0m
+[1;36mtom      pts/0        2024-08-31 21:37 (192.168.122.1)[0m
